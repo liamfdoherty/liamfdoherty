@@ -1,6 +1,6 @@
 # Liam Doherty
 
-I am a first-year Mathematics PhD student at Drexel University in Philadelphia, PA, USA. I have interests in machine learning, scientific computing, and numerical methods!
+I am an Applied Mathematics PhD student at Drexel University in Philadelphia, PA, USA. I have interests in machine learning, scientific computing, and numerical methods!
 <!--
 **liamfdoherty/liamfdoherty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
