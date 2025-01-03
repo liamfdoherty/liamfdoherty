@@ -1,5 +1,5 @@
 # 🙋🏻‍♂️ Hi, I'm Liam!
-🧑🏻‍💻 I’m currently working on **Synthetic Data Generation for Computer Vision**<br>🤔 I’m currently learning about **Sensor Fusion and Radar Systems**<br>📚 Studied **Applied Mathematics (M.S. Drexel University, B.S. Rowan University)**
+🧑🏻‍💻 I’m currently working on **Quantifying Task Complexity**<br>🤔 I’m currently learning about **Information Geometry**<br>📚 Studied **Applied Mathematics (M.S. Drexel University, B.S. Rowan University)**
 
 
 # 💻 Tech Stack
